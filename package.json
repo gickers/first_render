@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^1.6.7",
+    "express": "^4.18.2",
+    "lyrics-searcher": "^1.0.58",
+    "pg": "^8.11.3"
+  }
+}
